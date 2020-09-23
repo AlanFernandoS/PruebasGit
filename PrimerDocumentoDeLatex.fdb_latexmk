@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex PrimerDocumentoDeLatex"] 1600891831 "PrimerDocumentoDeLatex.aux" "PrimerDocumentoDeLatex.bbl" "PrimerDocumentoDeLatex" 1600891831
+["bibtex PrimerDocumentoDeLatex"] 1600892122 "PrimerDocumentoDeLatex.aux" "PrimerDocumentoDeLatex.bbl" "PrimerDocumentoDeLatex" 1600892124
   "C:/Program Files/MiKTeX 2.9/bibtex/bst/bibtex/abbrv.bst" 1291868336 20329 b5fed53e10044d0f8112183785c759b1 ""
-  "PrimerDocumentoDeLatex.aux" 1600891788 616 336adfb47c707a550350f36fd8a7f234 "pdflatex"
+  "PrimerDocumentoDeLatex.aux" 1600892123 616 336adfb47c707a550350f36fd8a7f234 "pdflatex"
   "main.bib" 0 -1 0 ""
   (generated)
-  "PrimerDocumentoDeLatex.blg"
   "PrimerDocumentoDeLatex.bbl"
-["pdflatex"] 1600891787 "c:/Users/alanf/Documents/Alan/Cursos/PruebasGit/PrimerDocumentoDeLatex.tex" "c:/Users/alanf/Documents/Alan/Cursos/PruebasGit/PrimerDocumentoDeLatex.pdf" "PrimerDocumentoDeLatex" 1600891831
+  "PrimerDocumentoDeLatex.blg"
+["pdflatex"] 1600892122 "c:/Users/alanf/Documents/Alan/Cursos/PruebasGit/PrimerDocumentoDeLatex.tex" "c:/Users/alanf/Documents/Alan/Cursos/PruebasGit/PrimerDocumentoDeLatex.pdf" "PrimerDocumentoDeLatex" 1600892124
   "C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -32,14 +32,14 @@
   "C:/Program Files/MiKTeX 2.9/tex/latex/l3backend/l3backend-pdfmode.def" 1584014714 25398 19ae1e59d7f4a47fefb457d851f6f503 ""
   "C:/Users/alanf/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt" 1600817034 10393799 87828330748f3b3c56761f27b9ce8179 ""
   "C:/Users/alanf/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map" 1600355978 332839 8da7dc0e2eef991d2bc0a14657488be4 ""
-  "PrimerDocumentoDeLatex.aux" 1600891788 616 336adfb47c707a550350f36fd8a7f234 "pdflatex"
+  "PrimerDocumentoDeLatex.aux" 1600892123 616 336adfb47c707a550350f36fd8a7f234 "pdflatex"
   "PrimerDocumentoDeLatex.bbl" 0 -1 0 "bibtex PrimerDocumentoDeLatex"
-  "PrimerDocumentoDeLatex.tex" 1600891831 1316 68b6c671b2c814bc8e898fb9e872e84c ""
-  "c:/Users/alanf/Documents/Alan/Cursos/PruebasGit/PrimerDocumentoDeLatex.aux" 1600891788 616 336adfb47c707a550350f36fd8a7f234 ""
-  "c:/Users/alanf/Documents/Alan/Cursos/PruebasGit/PrimerDocumentoDeLatex.tex" 1600891831 1316 68b6c671b2c814bc8e898fb9e872e84c ""
+  "PrimerDocumentoDeLatex.tex" 1600892121 1316 68b6c671b2c814bc8e898fb9e872e84c ""
+  "c:/Users/alanf/Documents/Alan/Cursos/PruebasGit/PrimerDocumentoDeLatex.aux" 1600892123 616 336adfb47c707a550350f36fd8a7f234 ""
+  "c:/Users/alanf/Documents/Alan/Cursos/PruebasGit/PrimerDocumentoDeLatex.tex" 1600892121 1316 68b6c671b2c814bc8e898fb9e872e84c ""
   (generated)
-  "c:/Users/alanf/Documents/Alan/Cursos/PruebasGit/PrimerDocumentoDeLatex.pdf"
-  "PrimerDocumentoDeLatex.pdf"
-  "PrimerDocumentoDeLatex.aux"
-  "PrimerDocumentoDeLatex.log"
   "c:/Users/alanf/Documents/Alan/Cursos/PruebasGit/PrimerDocumentoDeLatex.log"
+  "PrimerDocumentoDeLatex.pdf"
+  "PrimerDocumentoDeLatex.log"
+  "c:/Users/alanf/Documents/Alan/Cursos/PruebasGit/PrimerDocumentoDeLatex.pdf"
+  "PrimerDocumentoDeLatex.aux"
